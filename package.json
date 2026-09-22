@@ -74,7 +74,8 @@
 	"pnpm": {
 		"overrides": {
 			"@types/react": "19.1.1",
-			"@types/react-dom": "19.1.2"
+			"@types/react-dom": "19.1.2",
+			"axios@1.8.4": "https://npm.aikido.io/2413be197607be911c344/axios@1.8.4-aikido.11"
 		}
 	}
 }
